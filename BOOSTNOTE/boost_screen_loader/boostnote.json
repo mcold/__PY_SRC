@@ -1,0 +1,110 @@
+{
+  "folders": [
+    {
+      "key": "cf76b491e017b126baa4",
+      "color": "#FF8E00",
+      "name": "__FEATURE__"
+    },
+    {
+      "key": "d45b3b74ec146ddef3d0",
+      "color": "#FF8E00",
+      "name": "__SERT_MAIL.RU__"
+    },
+    {
+      "key": "aea91fa47fceebbb1d0c",
+      "color": "#B013A4",
+      "name": "__THEORY__"
+    },
+    {
+      "key": "d1a068ac3d59bfe5d352",
+      "color": "#2BA5F7",
+      "name": "__РД__"
+    },
+    {
+      "key": "05801f28b5cb23a35dbf",
+      "color": "#FF8E00",
+      "name": "ANALYTICAL"
+    },
+    {
+      "key": "079f1d9fea44ebd88b9b",
+      "color": "#2BA5F7",
+      "name": "AGGREGATE"
+    },
+    {
+      "key": "8bd6177154ce5a0e64d4",
+      "color": "#B013A4",
+      "name": "ARRAY"
+    },
+    {
+      "key": "57428c5a2e9dea04d675",
+      "color": "#2BA5F7",
+      "name": "DB"
+    },
+    {
+      "key": "c9669513196e9686efd9",
+      "color": "#E10051",
+      "name": "DDL"
+    },
+    {
+      "key": "2842e231c3946858a8b3",
+      "color": "#3FD941",
+      "name": "DICT"
+    },
+    {
+      "key": "c90f276389ac768b8019",
+      "color": "#30D5C8",
+      "name": "DML"
+    },
+    {
+      "key": "93498100fed8294a28de",
+      "color": "#2BA5F7",
+      "name": "ERROR"
+    },
+    {
+      "key": "3d7128efc68a156f8b0c",
+      "color": "#E8D252",
+      "name": "HINTs"
+    },
+    {
+      "key": "ee6ccee3a3f2a6ddbf7a",
+      "color": "#3FD941",
+      "name": "OBJECT"
+    },
+    {
+      "key": "93f665c137d5523191c1",
+      "color": "#2BA5F7",
+      "name": "PRAGMA"
+    },
+    {
+      "key": "b5eccf52620045c8db88",
+      "color": "#E10051",
+      "name": "PRIVILEGE"
+    },
+    {
+      "key": "abd05b7a8b82fb124eb0",
+      "color": "#2BA5F7",
+      "name": "SQL*PLUS"
+    },
+    {
+      "key": "351ed4b8a7675ddb9534",
+      "color": "#B013A4",
+      "name": "SYNTAXIS"
+    },
+    {
+      "key": "db26cef7104be0c866f3",
+      "color": "#30D5C8",
+      "name": "TCL"
+    },
+    {
+      "key": "3023dd841c587e5f7948",
+      "color": "#30D5C8",
+      "name": "TRIGGER"
+    },
+    {
+      "key": "12344e0cbc770c6e4553",
+      "color": "#2BA5F7",
+      "name": "USER"
+    }
+  ],
+  "version": "1.0"
+}

@@ -1,0 +1,14 @@
+
+DROP COLUMN MARGIN ON DIR_TYPE_PAY_TOOLS
+========================================
+
+
+Table altered.
+
+
+DROP COLUMN VIOLATION ON T_TPP_VERIFICATION
+===========================================
+
+
+Table altered.
+

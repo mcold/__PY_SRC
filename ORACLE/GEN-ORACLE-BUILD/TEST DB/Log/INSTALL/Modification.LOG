@@ -1,0 +1,26 @@
+
+ADD COLUMN MARGIN TO DIR_TYPE_PAY_TOOLS
+=============================
+
+
+Table altered.
+
+
+Comment created.
+
+
+14 rows updated.
+
+
+Commit complete.
+
+
+ADD COLUMN VIOLATION TO T_TPP_VERIFICATION
+=============================
+
+
+Table altered.
+
+
+Comment created.
+

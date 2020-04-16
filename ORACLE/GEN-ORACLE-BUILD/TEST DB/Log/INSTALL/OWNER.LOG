@@ -1,0 +1,13 @@
+============================================================
+GRANT TO USER MP_DATA
+============================================================
+old   1: grant execute on DBMS_SCHEDULER to &USR_SXM
+new   1: grant execute on DBMS_SCHEDULER to MP_DATA
+
+Grant succeeded.
+
+old   1: grant create job to &USR_SXM
+new   1: grant create job to MP_DATA
+
+Grant succeeded.
+

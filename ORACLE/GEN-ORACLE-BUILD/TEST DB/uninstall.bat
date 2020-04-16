@@ -1,0 +1,1 @@
+sqlplus /nolog @UNINSTALL.SQL

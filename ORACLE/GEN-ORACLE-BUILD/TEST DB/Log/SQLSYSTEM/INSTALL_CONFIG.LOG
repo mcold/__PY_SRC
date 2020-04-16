@@ -1,0 +1,18 @@
+============================================================
+INITIALISATION PARAMETER SETUP
+============================================================
+DEFINE _DATE           = "19-DEC-19" (CHAR)
+DEFINE _CONNECT_IDENTIFIER = "" (CHAR)
+DEFINE _USER           = "" (CHAR)
+DEFINE _PRIVILEGE      = "" (CHAR)
+DEFINE _SQLPLUS_RELEASE = "1201000200" (CHAR)
+DEFINE _EDITOR         = "Notepad" (CHAR)
+DEFINE EDITOR          = "vim" (CHAR)
+DEFINE PATH_VERSION    = "3.4.1.0" (CHAR)
+DEFINE PATH_NAME       = "MobiPay DB" (CHAR)
+DEFINE PATH_DESCR      = "IR-4265 Перевод MobiPay 3.4 (линейка WinMobile) на Oracle 19" (CHAR)
+DEFINE USR_SYS         = "sys" (CHAR)
+DEFINE PWD_SYS         = "sys" (CHAR)
+DEFINE SID             = "DB_19" (CHAR)
+DEFINE USR_SXM         = "MP_DATA" (CHAR)
+DEFINE PWD_SXM         = "MP_DATA" (CHAR)
