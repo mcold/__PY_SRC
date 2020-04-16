@@ -1,0 +1,17 @@
+gen:
+  src_dir: 
+  jcl_dir: 
+  out_dir: 
+  xml_dir: 
+
+jcl:
+  extension:
+    - py
+    - java
+    - js
+    - sql
+  
+  
+jms:
+  name: prj_name
+  masher: C:\Program Files (x86)\HotPotatoes6\Masher.exe

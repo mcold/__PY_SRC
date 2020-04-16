@@ -1,0 +1,7 @@
+*test*
+.vscode
+*backup
+*.pyc
+src
+out
+jcl
