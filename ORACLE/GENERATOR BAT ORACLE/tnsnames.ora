@@ -1,0 +1,198 @@
+
+ = 
+ = 
+ACC = 
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = b36)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = Account)
+    )
+  )
+AGAT2 = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = s12.gs.local)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = db01)
+    )
+  )
+AGATCLONE = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = S12)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = db17)
+    )
+  )
+DEMOEAM = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = s04)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = DEMOEAM)
+    )
+  )
+DEMO_MARINE = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.12)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = db12)
+  )
+)
+DEMO_YANT = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.12)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = db12)
+  )
+)
+  
+DEVGS = 
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.250)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = db01)
+    )
+  )
+  
+EAMDEV = 
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.27)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = eamdev)
+    )
+  )
+ERA = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = S12)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = db19)
+    )
+  )  
+MNF_DEV = 
+  (DESCRIPTION = 
+    (ADDRESS = 
+      (PROTOCOL = TCP)
+      (HOST = 192.168.2.14)
+      (PORT = 1521)
+    )
+    (CONNECT_DATA = 
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = DEVMNF)
+    )
+  )
+PARISHDB2 = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.172)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = DB2)
+    )
+  ) 
+  
+  
+PDM_DEV = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.14)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = devpdm)
+    )
+  )  
+SNSZ = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = s02)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = SNSZ)
+    )
+  )
+SNSZ2 = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.123)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = SNSZ2)
+    )
+  )
+SUPPORT = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = v27.gs.local)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = db02)
+    )
+  )
+SUPPORTOLD = 
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.12)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SID = DB10)
+    )
+  )
+  
+  
+TSTBTKDB3 = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.137)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = DB3)
+    )
+  )
+VSMPO = 
+  (DESCRIPTION = 
+    (ADDRESS_LIST = 
+      (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.12)(PORT = 1521))
+    )
+    (CONNECT_DATA = 
+      (SERVICE_NAME = db05)
+    )
+  )
+VSZ = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = s04)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SID = vsz)
+    )
+  )
+VSZ_QJM = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = s12.gs.local)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = db16)
+  )
+)  
+  
+WF_YANT = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.2.12)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = DB02)
+    )
+  )
+YANT = 
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = S14)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = DB06)
+    )
+  )
+  
