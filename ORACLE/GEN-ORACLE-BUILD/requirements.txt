@@ -30,4 +30,4 @@ requests==2.22.0
 shiboken2==5.14.0
 six==1.14.0
 Unidecode==1.1.1
-urllib3==1.25.6
+urllib3==1.26.5
